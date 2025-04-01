@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "nombre": "Juan",
+        "apellido": "Pérez",
+        "edad": 30,
+        "cargo": "Desarrollador",
+        "salario": 50000,
+        "activo": true
+    },
+    {
+        "id": 2,
+        "nombre": "Ana",
+        "apellido": "Gómez",
+        "edad": 28,
+        "cargo": "Diseñadora",
+        "salario": 45000,
+        "activo": true
+    },
+    {
+        "id": 3,
+        "nombre": "Luis",
+        "apellido": "Martínez",
+        "edad": 35,
+        "cargo": "Gerente",
+        "salario": 70000,
+        "activo": true
+    },
+    {
+        "id": 4,
+        "nombre": "María",
+        "apellido": "López",
+        "edad": 32,
+        "cargo": "Analista",
+        "salario": 55000,
+        "activo": true
+    },
+    {
+        "id": 5,
+        "nombre": "Carlos",
+        "apellido": "Hernández",
+        "edad": 40,
+        "cargo": "Administrador",
+        "salario": 60000,
+        "activo": true
+    }
+]
